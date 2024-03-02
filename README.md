@@ -16,7 +16,7 @@ Our mission is to create a free and open source medical symptom checker where al
 
 ## Live Demo
 
-- Live demo on GitHub.io: https://labinatorsolutions.github.io/medical-symptom-checker/
+- Live demo on GitHub.io: https://uniben-online.github.io/1/
 
 ## Features
 
